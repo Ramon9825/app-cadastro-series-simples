@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/manjaro/.dotnet/store/|arch|/|tfm|",
+      "/home/manjaro/.nuget/packages"
+    ]
+  }
+}

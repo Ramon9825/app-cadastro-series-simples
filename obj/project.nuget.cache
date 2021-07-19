@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xp00J1cr45F2t+vY6Q9yA2BwQhsynfhrBGdQUTvx7zLS0GNKWkJxrSVXsDigsiUqc6U6ugsYeMKrnfsSO8VU7Q==",
+  "success": true,
+  "projectFilePath": "/home/manjaro/DIO.series/DIO.series.csproj",
+  "expectedPackageFiles": [
+    "/home/manjaro/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
